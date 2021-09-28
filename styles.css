@@ -1,0 +1,19 @@
+.image1
+ {
+    border: 2px solid white;
+    padding: 5px;
+    border-radius: 150px;
+    max-width: 15%;
+    height: auto;
+}
+ .image2
+ {
+    max-width: 25%;
+    height: auto;
+ }
+
+ .image3
+ {
+    max-width: 15%;
+    height: auto;
+ }
