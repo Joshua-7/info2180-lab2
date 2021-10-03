@@ -131,7 +131,26 @@ heading3
     list-style-type: none;
  }
 
- li
+ a:link
  {
      color: #4299E1;
+     text-decoration: none;
+ }
+
+ a:visited
+ {
+     color: #4299E1;
+     text-decoration: none;
+ }
+
+ a:hover
+ {
+     color: #4299E1;
+     text-decoration: none;
+ }
+
+ a:active
+ {
+     color: #4299E1;
+     text-decoration: none;
  }
